@@ -1,0 +1,11 @@
+# The binaries are GitHub Release assets; they never go into the repository.
+*.apk
+*.aab
+*.exe
+*.msi
+*.zip
+*.7z
+*.tar.xz
+*.tar.gz
+*.dmg
+*.ipa
