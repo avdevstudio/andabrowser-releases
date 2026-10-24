@@ -1,0 +1,2 @@
+# LF everywhere: SHA256SUMS must be LF for sha256sum -c, also on Windows checkouts.
+* text=auto eol=lf
