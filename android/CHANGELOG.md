@@ -3,6 +3,16 @@
 Newest first. Each version is a release tagged `android-v<version>`; its APK and `SHA256SUMS` are attached to the
 release, and the checksums are also in `android/<version>/SHA256SUMS`.
 
+## 1.0.0-beta.3 (2026-11-08)
+
+The third public beta: Users (several profiles on one device, each with its own history, cookies, passwords and
+settings, an optional password per user, and a guest mode); our own ad blocker built on Brave's adblock-rust engine
+with the EasyList, EasyPrivacy and hufilter lists, including cosmetic filtering; smoother start-up and user switching.
+Includes GeckoView 159.0.20261022150525 by Mozilla, the same as beta.2; its exact source is attached to the release.
+
+- `AndaBrowser-1.0.0-beta.3-arm64-v8a.apk` (arm64-v8a, Android 8.0 or newer)
+- SHA-256: `cc84480ce767dbb13201742770ced3855f2cb247939df786393008463ad3b291`
+
 ## 1.0.0-beta.2 (2026-11-03)
 
 The second public beta: Anda Security in one place (Protection, Permissions, Sites and data, Passwords and autofill,
