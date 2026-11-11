@@ -54,7 +54,7 @@ Includes GeckoView 159.0.20261022150525 by Mozilla (unchanged since beta.3); its
 - No AI row among the suggestions in normal search; AI is one switch away.
 - **"What was blocked?"** The ad blocker shows what it filtered by category; the rest is "Other blocked item".
 
-### Motion and speed (from 3.1)
+### Motion and speed
 
 - User switching happens in one window with a cross-fade.
 - Faster start-up: one window, plus a Baseline Profile.
